@@ -11,7 +11,7 @@ $ npm i konamicommandjs
 ```javascript
 new KonamiCommandJS(<FUNCTION>)
 
-or
+/* or */
 
 new KonamiCommandJS(() =>{
     alert("Hello world!!");
