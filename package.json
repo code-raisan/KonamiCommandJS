@@ -1,0 +1,11 @@
+{
+  "name": "konamicommandjs",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Easy to implement Konami command.",
+  "main": "KonamiCommand.min.js",
+  "keywords": ["konamicommand", "konami"],
+  "author": "code-raisan(raisan@ablaze.one)",
+  "license": "MIT",
+  "files": ["dist"]
+}
