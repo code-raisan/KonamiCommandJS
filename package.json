@@ -1,6 +1,6 @@
 {
-  "name": "@code-raisan/konamicommandjs",
-  "version": "1.0.0",
+  "name": "konamicommandjs",
+  "version": "1.0.1",
   "private": false,
   "description": "Easy to implement Konami command.",
   "main": "KonamiCommand.min.js",
