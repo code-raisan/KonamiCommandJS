@@ -1,5 +1,5 @@
 {
-  "name": "konamicommandjs",
+  "name": "@code-raisan/konamicommandjs",
   "version": "1.0.0",
   "private": false,
   "description": "Easy to implement Konami command.",
@@ -7,5 +7,6 @@
   "keywords": ["konamicommand", "konami"],
   "author": "code-raisan(raisan@ablaze.one)",
   "license": "MIT",
-  "files": ["dist"]
+  "files": ["dist"],
+  "repository": "https://github.com/code-raisan/KonamiCommandJS"
 }

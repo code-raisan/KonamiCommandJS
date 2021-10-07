@@ -3,7 +3,7 @@
 ## How to install
 
 ```sh
-$ npm i konamicommandjs
+npm i konamicommandjs
 ```
 
 ## How to use
